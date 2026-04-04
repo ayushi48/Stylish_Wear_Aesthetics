@@ -168,18 +168,10 @@ npm start
 
 ---
 
-# 🔑 Environment Variables
 
-Create `.env` file inside **server folder**
 
 ```
-MONGO_URI=your_mongodb_url
-JWT_SECRET=your_secret_key
-PAYPAL_CLIENT_ID=your_paypal_client_id
-PAYPAL_CLIENT_SECRET=your_paypal_secret
-CLOUDINARY_NAME=your_cloudinary_name
-CLOUDINARY_API_KEY=your_api_key
-CLOUDINARY_SECRET=your_secret
+
 ```
 
 ---
