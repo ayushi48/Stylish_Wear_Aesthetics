@@ -6,11 +6,7 @@ cloudinary.config({
   api_key: process.env.CLOUDINARY_API_KEY,
   api_secret: process.env.CLOUDINARY_API_SECRET,
 });
-// cloudinary.config({
-//   cloud_name: "dkbowuecy",
-//   api_key: "895981514526233",
-//   api_secret: "N7lKnV0mWO-2cHjPQMwY1x2-wrc",
-// });
+
 
 const storage = new multer.memoryStorage();
 
